@@ -1,0 +1,25 @@
+   
+{
+    "author": {
+      "name": "Ilfat Galiev",
+      "email": "admin@ilfat-galiev.com"
+    },
+    "visual": {
+      "name": "Apex Charts Visual",
+      "displayName": "Apex Charts Visual (Preview)",
+      "guid": "apexchartsVisual",
+      "visualClassName": "Visual",
+      "version": "1.0.0.0",
+      "description": "Integrate ApexCharts.js into Power BI",
+      "supportUrl": "https://github.com/zBritva/apexcharts-powerbi-docs/issues",
+      "gitHubUrl": "https://ilfat-galiev.im/docs/apexcharts/"
+    },
+    "apiVersion": "5.4.0",
+    "assets": {
+      "icon": "assets/icon.png"
+    },
+    "externalJS": [],
+    "style": "style/visual.scss",
+    "capabilities": "capabilities.json",
+    "stringResources": []
+  }
